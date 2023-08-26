@@ -1,6 +1,7 @@
 # About
 
-This is repository hosts the UI and content of an RSS feed reader.
+My personal RSS feed, using Osmosfeed.
+https://henriksonnergard.github.io/rss-reader/
 
 ## Links and references
 
