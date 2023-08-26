@@ -27,3 +27,7 @@ sources:
   - href: http://www.svd.se/?service=rss&amp;type=senastenytt # Svenska Dagbladet
   - href: http://www.gp.se/?rss # Göteborgs-Posten
   - href: http://ftr.fivefilters.org/makefulltextfeed.php?url=http%3A%2F%2Fwww.thelocal.se%2Ffeeds%2Frss.php&amp;max=3 # The Local
+
+siteTitle: "RSS-flöde | henriksonnergard.com"
+timezone: Europe/Stockholm
+cacheMaxDays: 7
