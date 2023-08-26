@@ -25,7 +25,6 @@ sources:
   - href: http://www.popsci.com/rss.xml
   - href: http://www.svd.se/?service=rss%26type=senastenytt
   - href: http://www.gp.se/?rss
-  - href: https://feeds.thelocal.com/rss/se
 
 siteTitle: "RSS-flöde | henriksonnergard.com"
 timezone: Europe/Stockholm
