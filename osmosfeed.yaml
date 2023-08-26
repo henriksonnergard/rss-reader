@@ -24,7 +24,7 @@ sources:
   - href: https://www.theguardian.com/world/rss
   - href: http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml
   - href: http://www.popsci.com/rss.xml
-  - href: http://www.svd.se/?service=rss&amp;type=senastenytt
+  - href: http://www.svd.se/?service=rss%26type=senastenytt
   - href: http://www.gp.se/?rss
   - href: https://feeds.thelocal.com/rss/se
 
